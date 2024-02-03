@@ -24,6 +24,7 @@ Version: 0.1.0
 * Trimming down unecessary Mineclonia and Mineclone content
 * Barrier to keep players within Gensokyo
 * Randomized spawn locations for new players
+* Ambient audio (including music) to improve exploration
 
 ### Planned
 * Replace hunger with blessings (Youkai will not spawn if blessings are high)
