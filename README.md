@@ -2,9 +2,13 @@
 
 A Touhou-themed mod for Minetest, forked from Mineclonia.
 Focused on exploration and multiplayer.
+
 Map -> [Touhoucraft](https://www.planetminecraft.com/member/touhoucraft/)
+
 Mineclonia -> [Mineclonia](https://codeberg.org/mineclonia/mineclonia)
+
 Textures -> [GT-Textures](https://github.com/babasproke2/GT-Textures)
+
 Server -> bernkastel.mooo.com:30000
 
 Version: 0.1.0
