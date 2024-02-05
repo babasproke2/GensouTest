@@ -1,0 +1,19 @@
+Hqmbre
+-Ambient Audio (i.e. wind near X number of leaves)
+        -Make music play at time 12000, minecraft songs are a good start, arranges later
+-Regions plugin
+        -Region name will be written on the User's screen briefly on entry (ex. Kourindou) (Hqmbre kinda did this)
+-Set biomes with a worldedit type plugin (Will require writing to DB)
+-Replace hunger with blessings
+        -Make some youkai to replace the mc mobs
+-Make passive mobs spawn on their own
+-Worldedit modification that allows for population of stone with ore chunk schematics
+-Yukkuri model and NPC
+-Cirno model and NPC (play as youkai?)
+-Whale model and NPC
+-Fix flower pot textures
+-Danmaku weapons (Ex. Gohei fires a projectile pattern with particle effects, different pattern for right click)
+
+Featherine
+-Add skins to the server
+-Maybe either fix or delete the broken skins
